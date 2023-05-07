@@ -23,6 +23,8 @@ from selenium.webdriver import Keys, ActionChains
 
 import time, sys
 
+cmd_ctrl = Keys.COMMAND if sys.platform == 'darwin' else Keys.CONTROL
+
 target = "<link>"
 
 content = "<content>"
