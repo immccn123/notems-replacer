@@ -6,7 +6,7 @@ Configure in the file:
 - Variable `target`: `https://note.ms/<target>`
 - Variable `content`: The content you want to replace every moment.
 
-**For learning use only, abuse is strictly prohibited.**
+**For learning use only, do not abuse.**
 
 ## 用法
 
@@ -14,6 +14,6 @@ Configure in the file:
 - 变量 `target`：`https://note.ms/<target>`
 - 变量 `content`：要替换的内容。
 
-**交流仅供学习使用，严禁滥用**
+**仅供交流学习使用，严禁滥用**
 
 [<ruby>Donate<rt>捐赠</rt></ruby>](https://sponsor.imken.moe/)
