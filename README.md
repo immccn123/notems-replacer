@@ -1,5 +1,7 @@
 # Note.ms Replacer
 
+球球各位给个 Star 吧！
+
 ## Usage
 
 Configure in the file:
